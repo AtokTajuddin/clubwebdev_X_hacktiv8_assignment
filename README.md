@@ -263,10 +263,10 @@ curl -X DELETE http://localhost:8080/products/1
 
 ```
 e-commerce/
-├── main.go          # Main application file
-├── go.mod           # Go modules
-├── go.sum           # Go dependencies
-└── README.md        # Documentation
+├───products
+├───source
+├───transaction
+└───users
 ```
 
 ## 💡 Catatan Penting
